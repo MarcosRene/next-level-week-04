@@ -52,3 +52,10 @@
 
   font-size: 0;
 }
+
+@media (min-width: 768px) {
+  .overlay {
+    margin-right: 1rem;
+    margin-left: 1rem;
+  }
+}
